@@ -6,4 +6,4 @@ permalink: /team/
 
 # Mythic Works Team
 
-* [Dawson Eliasen](dawsoneliasen.com)
+* [Dawson Eliasen](http://dawsoneliasen.com)
