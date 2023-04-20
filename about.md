@@ -4,10 +4,8 @@ title: /
 permalink: /about/
 ---
 
-![Mythic Works logo](/images/logo/logo-mobile.svg =250x250)
-
 <p align="center">
-  <img src="/images/logo/logo-mobile.svg =250x250" alt="Mythic Works logo" style="width:250px;height:250px;">
+  <img src="/images/logo/logo-mobile.svg" alt="Mythic Works logo" width="250" height="250">
 </p>
 
 # Mythic Works
