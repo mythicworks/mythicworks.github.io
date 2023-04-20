@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Mythic Works
+title: /
 permalink: /about/
 ---
 

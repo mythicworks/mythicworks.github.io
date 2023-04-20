@@ -1,7 +1,9 @@
 ---
 layout: page
-title: Team
+title: /team
 permalink: /team/
 ---
+
+# Mythic Works Team
 
 * [Dawson Eliasen](dawsoneliasen.com)

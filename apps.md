@@ -1,9 +1,11 @@
 ---
 layout: page
-title: Apps
+title: /apps
 permalink: /apps/
 ---
 
-# Sliced
+# Mythic Works Apps
+
+* Sliced
 
 Sliced makes it stupid easy to stay on top of your spending. Currently in development.
