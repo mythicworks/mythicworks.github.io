@@ -5,8 +5,6 @@ style: light
 header_pages:
   - about.md
 
-title: 'Mythic Works'
-
 ignore:
   - README.md
 
