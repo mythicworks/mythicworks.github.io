@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 <p align="center">
-  <img src="/images/logo/logo-mobile.svg" alt="Mythic Works logo" width="250" height="250">
+  <img src="/images/logo/logo-mobile.svg" alt="Mythic Works logo" width="100" height="100">
 </p>
 
 # Mythic Works
