@@ -4,6 +4,8 @@ style: light
 
 header_pages:
   - about.md
+  - apps.md
+  - team.md
 
 ignore:
   - README.md
